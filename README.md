@@ -292,7 +292,5 @@ For questions, issues, or suggestions:
 
 ---
 
-**Project Status**: ✅ Production Ready  
-**Version**: 2.0  
-**Last Updated**: 2024  
-**Maintainer**: Data Science Team
+**Project Status**: ✅ Production Ready   
+**Maintainer**: Radman Bayatzadeh
