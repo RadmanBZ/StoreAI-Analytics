@@ -19,6 +19,10 @@ This is a comprehensive data science project for analyzing retail store performa
 - **Feature Engineering**: 40+ advanced features including interaction terms, clustering-based features
 - **Statistical Analysis**: Comprehensive normality tests, correlation analysis, hypothesis testing
 
+![screenshot](images/1.png)
+![screenshot](images/2.png)
+![screenshot](images/3.png)
+
 ### 🤖 Machine Learning Pipeline
 - **Multiple Algorithms**: Random Forest, Gradient Boosting, XGBoost, LightGBM, SVR, Neural Networks
 - **Hyperparameter Tuning**: Grid search and random search optimization
